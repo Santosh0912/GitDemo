@@ -53,6 +53,7 @@ public class Test_1 extends Base{
 	    File source=ts.getScreenshotAs(OutputType.FILE);    
 	    FileHandler.copy(source,new File(dir+"\\Page_1.jpeg"));
 	    System.out.println("Making changes by Person 1.1");
+	    System.out.println("Making changes by Person 2.1");
 	}
 
 
@@ -66,6 +67,7 @@ public class Test_1 extends Base{
 	    File source=ts.getScreenshotAs(OutputType.FILE);    
 	    FileHandler.copy(source,new File(dir+"\\Page_2.jpeg"));
 	    System.out.println("Making changes by Person 1.2");
+	    System.out.println("Making changes by Person 2.2");
 		
 	}
 
@@ -79,6 +81,7 @@ public class Test_1 extends Base{
 	    File source=ts.getScreenshotAs(OutputType.FILE);    
 	    FileHandler.copy(source,new File(dir+"\\Page_3.jpeg"));
 	    System.out.println("Making changes by Person 1.3");
+	    System.out.println("Making changes by Person 2.3");
 	}
 
 	@Given("^Clicking the 'Previous' button on the carousel will load the previous_featured articles$")
@@ -90,11 +93,13 @@ public class Test_1 extends Base{
 	    File source=ts.getScreenshotAs(OutputType.FILE);    
 	    FileHandler.copy(source,new File(dir+"\\Page_4.jpeg"));
 	    System.out.println("Making changes by Person 1.4");
+	    System.out.println("Making changes by Person 2.4");
 	}
 	
 	@When("^I am viewing the 'Home' page$")
 	public void i_am_viewing_the_Home_page() throws Throwable {
 		System.out.println("Making changes by Person 1.5");
+		System.out.println("Making changes by Person 2.5");
 	}
 
 	
@@ -109,6 +114,7 @@ public class Test_1 extends Base{
 		P2.ContactUs();
 		logger.info("Clicked on 'Contact us' Menu");
 		System.out.println("Making changes by Person 1.6");
+		System.out.println("Making changes by Person 2.6");
 	}
 
 	@Then("^I am taken to the 'Contact us' page$")
@@ -122,12 +128,14 @@ public class Test_1 extends Base{
 	    File source=ts.getScreenshotAs(OutputType.FILE);    
 	    FileHandler.copy(source,new File(dir+"\\Page_6.jpeg"));
 	    System.out.println("Making changes by Person 1.7");
+	    System.out.println("Making changes by Person 2.7");
 
 	}
 
 	@Then("^I am presented with the below options for contacts$")
 	public void i_am_presented_with_the_below_options_for_contacts() throws Throwable {
 		System.out.println("Making changes by Person 1.8");
+		System.out.println("Making changes by Person 2.8");
 	}
 	
 	
@@ -138,6 +146,7 @@ public class Test_1 extends Base{
 		P3.MagnifyingGlass();
 		logger.info("Clicked on 'Magnifying glass' Menu");
 		System.out.println("Making changes by Person 1.9");
+		System.out.println("Making changes by Person 2.9");
 	}
 
 	@When("^I enter the text 'Single page applications' in \"([^\"]*)\"$")
@@ -148,17 +157,20 @@ public class Test_1 extends Base{
 	    File source=ts.getScreenshotAs(OutputType.FILE);    
 	    FileHandler.copy(source,new File(dir+"\\Page_7.jpeg"));
 	    System.out.println("Making changes by Person 2.0");
+	    System.out.println("Making changes by Person 3.0");
 	}
 	
 	
 	@When("^I submit the search$")
 	public void i_submit_the_search() throws Throwable {
 		System.out.println("Making changes by Person 2.1");
+		System.out.println("Making changes by Person 3.1");
 	}
 
 	@Then("^I am taken to the search results page$")
 	public void i_am_taken_to_the_search_results_page() throws Throwable {
 		System.out.println("Making changes by Person 2.2");
+		System.out.println("Making changes by Person 3.2");
 	}
 
 	@Then("^I am presented with at least one search result$")
@@ -169,6 +181,7 @@ public class Test_1 extends Base{
 	    FileHandler.copy(source,new File(dir+"\\Page_8.jpeg"));
 		logger.info("Checking Search results");
 		System.out.println("Making changes by Person 2.3");
+		System.out.println("Making changes by Person 3.3");
 	}
 	
 
