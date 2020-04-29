@@ -54,6 +54,7 @@ public class Test_1 extends Base{
 	    FileHandler.copy(source,new File(dir+"\\Page_1.jpeg"));
 	    System.out.println("Making changes by Person 1.1");
 	    System.out.println("Making changes by Person 2.1");
+	    System.out.println("Branch Changes 1.0");
 	}
 
 
