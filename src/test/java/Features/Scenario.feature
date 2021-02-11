@@ -1,4 +1,4 @@
-Feature: PsC's Digital Pulse website
+Feature: PwC's Digital Pulse website
 
   Scenario: Checking PWC featured articles
     Given I navigate to the PwC Digital Pulse website
