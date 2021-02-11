@@ -1,4 +1,4 @@
-Feature: Goto PWC website
+Feature: PsC's Digital Pulse website
 
   Scenario: Checking PWC featured articles
     Given I navigate to the PwC Digital Pulse website
@@ -6,8 +6,7 @@ Feature: Goto PWC website
     Then I am presented with a carousel displaying 3 featured articles
     And Clicking the 'Next' button on the carousel will load the next_featured articles
     And Clicking the 'Previous' button on the carousel will load the previous_featured articles
-    
-    
+
   Scenario: Checking HamBurger Menu
     Given I navigate to the PwC Digital Pulse website
     When I select 'Contact us' from the hamburger menu
@@ -25,4 +24,3 @@ Feature: Goto PWC website
     Examples: 
       | Search                   |
       | Single Page Applications |
-    

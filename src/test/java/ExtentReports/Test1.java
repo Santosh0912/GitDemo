@@ -1,6 +1,7 @@
 package ExtentReports;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.testng.annotations.AfterTest;
 import org.testng.annotations.BeforeTest;
 import org.testng.annotations.Test;
 
@@ -51,5 +52,11 @@ public class Test1 extends Base {
 		//extent.flush();
 		driver.close();
 	}
+	
+	@AfterTest
+	public void closeBrowser() {
+		driver.close();
+	}
+	
 
 }

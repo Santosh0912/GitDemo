@@ -787,3 +787,55 @@
 2020-04-25 21:43:59,952 INFO  [Test_1] Clicked on 'Magnifying glass' Menu 
 2020-04-25 21:44:01,581 INFO  [Test_1] Enter 'Single Page Applications' in text box 
 2020-04-25 21:44:02,559 INFO  [Test_1] Checking Search results 
+2021-02-11 10:41:47,022 INFO  [Test_1] Website opened successfully 
+2021-02-11 10:41:47,575 INFO  [Test_1] Checking Carousel is dispalyed 
+2021-02-11 10:41:48,464 INFO  [Test_1] Clicked on 'Next' button/link 
+2021-02-11 10:41:49,309 INFO  [Test_1] Clicked on 'Previous' button/link 
+2021-02-11 10:43:05,724 INFO  [Test_1] Website opened successfully 
+2021-02-11 10:43:06,318 INFO  [Test_1] Checking Carousel is dispalyed 
+2021-02-11 10:43:07,181 INFO  [Test_1] Clicked on 'Next' button/link 
+2021-02-11 10:43:08,054 INFO  [Test_1] Clicked on 'Previous' button/link 
+2021-02-11 10:44:33,282 INFO  [Test_1] Website opened successfully 
+2021-02-11 10:44:33,804 INFO  [Test_1] Checking Carousel is dispalyed 
+2021-02-11 10:44:34,695 INFO  [Test_1] Clicked on 'Next' button/link 
+2021-02-11 10:44:35,664 INFO  [Test_1] Clicked on 'Previous' button/link 
+2021-02-11 10:54:25,352 INFO  [Test_1] Website opened successfully 
+2021-02-11 10:54:25,856 INFO  [Test_1] Checking Carousel is dispalyed 
+2021-02-11 10:54:26,745 INFO  [Test_1] Clicked on 'Next' button/link 
+2021-02-11 10:54:27,648 INFO  [Test_1] Clicked on 'Previous' button/link 
+2021-02-11 10:56:32,557 INFO  [Test_1] Website opened successfully 
+2021-02-11 10:56:33,200 INFO  [Test_1] Clicked on 'HamBurger' Menu 
+2021-02-11 10:56:34,909 INFO  [Test_1] Clicked on 'Contact us' Menu 
+2021-02-11 10:56:35,038 INFO  [Test_1] Checking 'PWC','Digital Plus','CareerAT','General' Tabs 
+2021-02-11 10:57:21,464 INFO  [Test_1] Website opened successfully 
+2021-02-11 10:57:22,023 INFO  [Test_1] Clicked on 'Magnifying glass' Menu 
+2021-02-11 10:57:23,803 INFO  [Test_1] Enter 'Single Page Applications' in text box 
+2021-02-11 10:57:24,617 INFO  [Test_1] Checking Search results 
+2021-02-11 10:57:47,978 INFO  [Test_1] Website opened successfully 
+2021-02-11 10:57:48,577 INFO  [Test_1] Clicked on 'Magnifying glass' Menu 
+2021-02-11 10:57:49,945 INFO  [Test_1] Enter 'Single Page Applications' in text box 
+2021-02-11 10:57:50,808 INFO  [Test_1] Checking Search results 
+2021-02-11 11:02:52,521 INFO  [Test_1] Website opened successfully 
+2021-02-11 11:02:53,043 INFO  [Test_1] Checking Carousel is dispalyed 
+2021-02-11 11:02:53,930 INFO  [Test_1] Clicked on 'Next' button/link 
+2021-02-11 11:02:54,849 INFO  [Test_1] Clicked on 'Previous' button/link 
+2021-02-11 11:03:00,005 INFO  [Test_1] Website opened successfully 
+2021-02-11 11:03:00,630 INFO  [Test_1] Clicked on 'HamBurger' Menu 
+2021-02-11 11:03:02,391 INFO  [Test_1] Clicked on 'Contact us' Menu 
+2021-02-11 11:03:02,503 INFO  [Test_1] Checking 'PWC','Digital Plus','CareerAT','General' Tabs 
+2021-02-11 11:03:06,197 INFO  [Test_1] Website opened successfully 
+2021-02-11 11:03:06,727 INFO  [Test_1] Clicked on 'Magnifying glass' Menu 
+2021-02-11 11:03:08,275 INFO  [Test_1] Enter 'Single Page Applications' in text box 
+2021-02-11 11:03:09,181 INFO  [Test_1] Checking Search results 
+2021-02-11 11:04:07,393 INFO  [Test_1] Website opened successfully 
+2021-02-11 11:04:07,916 INFO  [Test_1] Checking Carousel is dispalyed 
+2021-02-11 11:04:08,866 INFO  [Test_1] Clicked on 'Next' button/link 
+2021-02-11 11:04:09,727 INFO  [Test_1] Clicked on 'Previous' button/link 
+2021-02-11 11:04:15,927 INFO  [Test_1] Website opened successfully 
+2021-02-11 11:04:16,497 INFO  [Test_1] Clicked on 'HamBurger' Menu 
+2021-02-11 11:04:18,201 INFO  [Test_1] Clicked on 'Contact us' Menu 
+2021-02-11 11:04:18,310 INFO  [Test_1] Checking 'PWC','Digital Plus','CareerAT','General' Tabs 
+2021-02-11 11:04:24,050 INFO  [Test_1] Website opened successfully 
+2021-02-11 11:04:25,069 INFO  [Test_1] Clicked on 'Magnifying glass' Menu 
+2021-02-11 11:04:26,919 INFO  [Test_1] Enter 'Single Page Applications' in text box 
+2021-02-11 11:04:27,742 INFO  [Test_1] Checking Search results 
